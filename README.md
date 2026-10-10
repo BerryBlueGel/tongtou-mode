@@ -8,7 +8,7 @@ Minecraft Java **26.2 + Fabric** 的纯客户端 Mod，正式版 **v1.0.0**。
 
 ## 下载
 
-前往 [v1.0.0 发布页](https://github.com/BerryBlueGel/tongtou-mode/releases/tag/v1.0.0) 下载 `通透模式-1.0.0+26.2.jar`，或下载包含 Fabric API 与说明的安装包。
+前往 [v1.0.0 发布页](https://github.com/BerryBlueGel/tongtou-mode/releases/tag/v1.0.0) 下载 `tongtou-mode-1.0.0+26.2.jar`，或下载包含 Fabric API 与说明的安装包。GitHub 下载附件使用英文文件名，内容与已验收的中文文件名版本完全一致；下载后可改名为 `通透模式-1.0.0+26.2.jar`。
 
 本仓库包含完整源码、Gradle Wrapper 和客户端游戏测试。开发过程中使用了 AI 辅助编码；功能经过客户端游戏测试和实际游戏验收，具体验证范围见下文。
 
