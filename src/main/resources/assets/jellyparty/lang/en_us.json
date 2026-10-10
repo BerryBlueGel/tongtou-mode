@@ -1,0 +1,7 @@
+{
+  "key.jellyparty.toggle": "开启 / 关闭通透模式",
+  "key.category.jellyparty.party": "通透模式",
+  "jellyparty.started": "通透模式开启",
+  "jellyparty.stopped": "你也快了",
+  "jellyparty.sound_failed": "Song could not start. Check Master and Jukebox / Note Blocks volume."
+}

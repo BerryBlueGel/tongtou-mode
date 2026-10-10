@@ -1,0 +1,5 @@
+{
+  "party": {
+    "sounds": [{"name": "jellyparty:party", "stream": false, "preload": true}]
+  }
+}

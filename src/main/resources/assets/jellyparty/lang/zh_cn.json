@@ -1,0 +1,7 @@
+{
+  "key.jellyparty.toggle": "开启 / 关闭通透模式",
+  "key.category.jellyparty.party": "通透模式",
+  "jellyparty.started": "通透模式开启",
+  "jellyparty.stopped": "你也快了",
+  "jellyparty.sound_failed": "歌曲无法播放，请检查主音量和唱片机 / 音符盒音量"
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "local.jellyparty.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "EntityRenderStateMixin",
+    "EntityRendererMixin",
+    "LivingEntityRendererMixin",
+    "EnderDragonRendererMixin",
+    "SoundManagerAccessor",
+    "SoundEngineAccessor",
+    "ChannelAccessor"
+  ],
+  "injectors": {"defaultRequire": 1}
+}

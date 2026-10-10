@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "jellyparty",
+  "version": "${version}",
+  "name": "通透模式",
+  "description": "哦耶耶！桃花🌸谢了有玫瑰🌹～  ",
+  "icon": "assets/jellyparty/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["local.jellyparty.JellyPartyClient"]
+  },
+  "mixins": [{"config": "jellyparty.client.mixins.json", "environment": "client"}],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": ">=0.152.2"
+  }
+}
